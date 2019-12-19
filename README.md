@@ -18,4 +18,4 @@ You like my work? [Support me](https://kryptonitewp.com/donations/hearthstone-ca
 
 All card images and names copyright © Blizzard Entertainment, Inc. Hearthstone® is a registered trademark of Blizzard Entertainment, Inc. This plugin is not affiliated or associated with or endorsed by Hearthstone® or Blizzard Entertainment, Inc.
 
-This WordPress plugin was developed by [flowdee](http://flowdee.de/).
+This WordPress plugin was developed by [flowdee](http://flowdee.de/) and continued by [LaurCzT](https://www.lab-404.com).
